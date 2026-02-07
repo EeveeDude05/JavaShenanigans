@@ -6,7 +6,7 @@
 
 import java.math.BigDecimal;
 
-public class Program3A {
+public class Program3A_edited {
     public static void main(String[] args) {
         // Generate a random gravity value between 0 and 10.5 using BigDecimal
         BigDecimal gravity = new BigDecimal(Math.random()).multiply(new BigDecimal("10.5"));
