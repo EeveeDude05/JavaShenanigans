@@ -14,5 +14,6 @@ public class FirstExeption {
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Error: Index out of bounds. Please enter an index between 0 and " + (fib.length - 1));
         }
+
     }
 }
